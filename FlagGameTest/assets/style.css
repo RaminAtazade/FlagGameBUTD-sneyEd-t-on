@@ -1,0 +1,23 @@
+#oyun-divi {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    border: double 2px #000000;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#oyun-input {
+    margin: 22px;
+    padding: 10px;
+    width: 250px;
+    font-size: 20px;
+}
+#characterpic {
+    width: 250;
+    height: 250;
+}
